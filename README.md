@@ -28,4 +28,4 @@ I'm also currently doing my Bachelor's of Technology in Computer Science Enginee
 I currently passionate about Data Analysis,Data Analytics,Data Visualization , Predictive Modeling , Deployment , Django Devlopment.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching cricket, But most of my days are spent working on projects while listening to songs, Studying or watching cricket</p>
 
-<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? Click <a href="https://github.com/stephenajulu/stephenajulu/blob/master/PROJECTS.md">here</a> </h3>
+<h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? </h3>
