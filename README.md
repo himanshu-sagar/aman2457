@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **aman2457/aman2457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,6 +36,10 @@ When I'm not developing and building things, you can find me on Youtube learning
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman2457" alt="aman2457" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imaman_17" target="blank"><img src="https://img.shields.io/twitter/follow/imaman_17?logo=twitter&style=for-the-badge" alt="imaman_17" /></a> </p>
+<p align="center">I'm a Data Science Enthusiast from India
+I'm also currently doing my Bachelor's of Technology in Computer Science Engineering from Lovly Professional University, India and other projects.
+I currently passionate about Data Analysis,Data Analytics,Data Visualization , Predictive Modeling , Deployment , Django Devlopment.
+When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching cricket, But most of my days are spent working on projects while listening to songs, Studying or watching cricket</p>
 
 - 🔭 I’m currently working on [Aapan Bihar Blogging Site](aapanbihar.herokuapp.com)
 
