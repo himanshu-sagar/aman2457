@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/aman2457"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<h2 align="center">Hello there! My name is Aman Kumar. 👋🤓</h2>
+<h2 align="center">Hello there! My name is Aman Kumar. 🤓</h2>
 <p align="center">I'm a Data Science Enthusias, Content Creator from Kenya.
 I'm also currently doing my Bachelor's of Technology in Computer Science Engineering from Lovly Professional University, India and other projects.
 I currently passionate about Data Analysis,Data Analytics,Data Visualization , Predictive Modeling , Deployment , Django Devlopment.
@@ -28,7 +28,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 <h3 align="center"> Interested in Collaborating or Donating/Sponsering My Projects? </h3>
 -->
-<h1 align="center">Hi 👋, I'm Aman</h1>
+<h1 align="center">Hi <img height="35" src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif'></img>, I'm Aman</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman2457&label=Profile%20views&color=0e75b6&style=flat" alt="aman2457" /> </p>
